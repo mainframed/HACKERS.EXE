@@ -1,0 +1,12 @@
+The only way to stop the virus is to break the code by filling in missing letters of a phrase.
+
+To get the letters you need to enter in their corresponding binary code.  
+
+Binary codes only have 0's or 1's.  Click on a 0 if you would like to change it to a 1...clicking again turns it back to a 0.
+When all the digits are set click ENTER.  For each correct code a missing letter will appear.
+
+If you solve the codes before the timer runs out you will stop the virus and save the S.S. Mysia from sinking.  If not, the ship sinks and you're not the hacker you thought you were.
+
+The binary letter codes and timer are at the bottom of the screen.
+
+Good luck !
